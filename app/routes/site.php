@@ -4,5 +4,5 @@ use app\controllers\Site;
 
 /******* Routes ************/
 
-$app->get('/site', Site::class.':index');
+$app->get('/', Site::class.':index');
 
