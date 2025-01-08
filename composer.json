@@ -2,8 +2,7 @@
     "name": "denilson/climaction",
     "type": "project",
     "require": {
-        "slim/slim": "*",
-        "php-di/php-di": "^7.0"
+        "slim/slim": "*"
     },
     "require-dev": {
         "slim/slim": "^4.14",
